@@ -1,0 +1,6 @@
+tensorflow
+plotly
+numpy
+pandas
+notebook
+matplotlib
